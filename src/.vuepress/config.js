@@ -31,7 +31,7 @@ module.exports = {
     editLinks: false,
     docsDir: '',
     editLinkText: '在 GitHub 上编辑此页',
-    lastUpdated: true,
+    lastUpdated: false,
     nav: [
       {
         text: '首页',
