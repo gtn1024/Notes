@@ -61,7 +61,9 @@ module.exports = {
               title: '小说',
               collapsable: true,
               children: ['小说总述', '赏析小说环境描写的文字', '情节表达技巧']
-            }
+            },
+            '标点符号',
+            '改写句子'
           ]
         }
       ],
