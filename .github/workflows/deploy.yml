@@ -33,7 +33,7 @@ jobs:
         run: yarn
       # 构建
       - name: yarn build
-        run: yarn g
+        run: yarn build
 
       # 部署
       - name: Deploy
@@ -43,7 +43,7 @@ jobs:
           # 删除服务器上目录里所有文件
           ARGS: '-avz --delete'
           # 项目 build 后静态文件位置
-          SOURCE: 'public/'
+          SOURCE: 'src/.vuepress/dist/'
           REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
           REMOTE_PORT: ${{ secrets.REMOTE_PORT }}
           REMOTE_USER: ${{ secrets.REMOTE_USER }}
