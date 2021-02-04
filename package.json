@@ -1,0 +1,23 @@
+{
+  "name": "Notes",
+  "version": "0.0.1",
+  "description": "This website is used to share the notes of Taoning in senior high.",
+  "main": "index.js",
+  "authors": {
+    "name": "Taoning Ge",
+    "email": "tony.bazhang@gmail.com"
+  },
+  "repository": "https://github.com/gtn1024/Notes",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "1.8.0"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.8.0",
+    "@vuepress/plugin-nprogress": "^1.8.0"
+  }
+}
