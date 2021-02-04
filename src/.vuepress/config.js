@@ -65,7 +65,13 @@ module.exports = {
           ]
         }
       ],
-      '/bio/': [],
+      '/bio/': [
+        {
+          title: '专题',
+          collapsable: false,
+          children: []
+        }
+      ],
       '/geo/': [
         {
           title: '区域地理',
@@ -83,6 +89,7 @@ module.exports = {
     '@vuepress/nprogress',
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
+    ['@vuepress/google-analytics', { ga: '261133161' }],
     [
       '@vuepress/active-header-links',
       {
