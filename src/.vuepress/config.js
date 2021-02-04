@@ -63,6 +63,11 @@ module.exports = {
               title: '小说',
               collapsable: true,
               children: ['小说总述', '赏析小说环境描写的文字', '情节表达技巧']
+            },
+            {
+              title: '散文',
+              collapsable: true,
+              children: ['散文语段的作用', '散文标题']
             }
           ]
         }
