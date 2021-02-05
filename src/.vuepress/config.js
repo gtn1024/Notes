@@ -83,7 +83,7 @@ module.exports = {
         {
           title: '区域地理',
           collapsable: false,
-          children: ['中亚', '东南亚']
+          children: ['中亚', '东南亚', '南亚']
         }
       ]
     }
