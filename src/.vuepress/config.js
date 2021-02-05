@@ -4,11 +4,11 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: '高中笔记',
+  title: "Taoning's Senior High Notes",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: '分享我的高中笔记',
+  description: 'Nothing matter, but to share.',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
