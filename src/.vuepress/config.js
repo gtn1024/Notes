@@ -33,22 +33,11 @@ module.exports = {
     editLinkText: '在 GitHub 上编辑此页',
     lastUpdated: false,
     nav: [
-      {
-        text: '首页',
-        link: '/'
-      },
-      {
-        text: '语文',
-        link: '/chi/'
-      },
-      {
-        text: '生物',
-        link: '/bio/'
-      },
-      {
-        text: '地理',
-        link: '/geo/'
-      }
+      { text: '首页', link: '/' },
+      { text: '语文', link: '/chi/' },
+      { text: '生物', link: '/bio/' },
+      { text: '地理', link: '/geo/' },
+      { text: '站长博客', link: 'https://getaoning.com' }
     ],
     sidebar: {
       '/chi/': [
