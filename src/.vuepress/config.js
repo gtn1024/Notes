@@ -50,12 +50,12 @@ module.exports = {
             '改写句子',
             {
               title: '小说',
-              collapsable: true,
+              collapsable: false,
               children: ['小说总述', '赏析小说环境描写的文字', '情节表达技巧']
             },
             {
               title: '散文',
-              collapsable: true,
+              collapsable: false,
               children: ['散文语段的作用', '散文标题']
             }
           ]
@@ -65,7 +65,13 @@ module.exports = {
         {
           title: '专题',
           collapsable: false,
-          children: []
+          children: [
+            {
+              title: '细胞的分子组成和基本结构',
+              collapsable: false,
+              children: ['组成细胞的分子', '细胞的结构与功能']
+            }
+          ]
         }
       ],
       '/geo/': [
