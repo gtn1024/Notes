@@ -14,7 +14,11 @@ tagline: 右上角有学科哦~
 footer: Made by Taoning with ❤️
 ---
 
-<center><img src="https://img-1251985644.file.myqcloud.com/images/4H7[THDQE9KNVSXFI7I01`A.jpg" alt="Coffee"></center>
+---
+
+:::center
+![Coffee](https://img-1251985644.file.myqcloud.com/images/4H7[THDQE9KNVSXFI7I01`A.jpg)
+:::
 
 ## Description
 
