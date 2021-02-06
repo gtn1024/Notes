@@ -14,8 +14,6 @@ tagline: 右上角有学科哦~
 footer: Made by Taoning with ❤️
 ---
 
-# Taoning's Senior High Notes
-
 <center><img src="https://img-1251985644.file.myqcloud.com/images/4H7[THDQE9KNVSXFI7I01`A.jpg" alt="Coffee"></center>
 
 ## Description
