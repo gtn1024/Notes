@@ -91,7 +91,7 @@ module.exports = {
     '@vuepress/nprogress',
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
-    ['@vuepress/google-analytics', { ga: '261133161' }],
+    ['@vuepress/plugin-google-analytics', { id: 'G-W04K828ELH' }],
     ['vuepress-plugin-baidu-tongji-analytics', { key: '9d594ed638a637cc52e7b8241534209d' }],
     ['md-enhance', { align: true, sub: true, sup: true, mark: true }],
     [
