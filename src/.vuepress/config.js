@@ -78,7 +78,7 @@ module.exports = {
         {
           title: '区域地理',
           collapsable: false,
-          children: ['中亚', '东南亚', '南亚', '西亚和北非']
+          children: ['中亚', '东南亚', '南亚', '西亚和北非', '撒哈拉以南的非洲和埃及']
         }
       ]
     }
